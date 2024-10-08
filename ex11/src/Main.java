@@ -3,14 +3,20 @@
 //enter the number of photocopies made and displays the corresponding
 //invoice.
 
+
 import java.util.Scanner;
-
-public class Main {
+class Main {
     public static void main(String[] args) {
-
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.println("Enter the number of photocopies: ");
-        int photocopies = scanner.nextInt();
+        Scanner sc = new Scanner (System.in);
+        System.out.print("Entrer le nombre de papies :");
+        double Nb_papies = sc.nextFloat();
+        double prix=0;
+        if ( Nb_papies <= 10 )
+            prix = Nb_papies *0.25;
+        if ( Nb_papies > 10 && Nb_papies<= 20 )
+            prix = Nb_papies *0.20;
+        if ( Nb_papies > 20  )
+            prix = Nb_papies *0.10;
+        System.out.print("Le prix total est: "+prix+" DTN");
     }
 }
