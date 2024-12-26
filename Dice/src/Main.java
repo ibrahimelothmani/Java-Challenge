@@ -1,4 +1,3 @@
-
 import java.util.Random;
 import java.util.Scanner;
 
@@ -15,14 +14,16 @@ public class Main {
             for (int i = 0; i < numberOfDice; i++) {
                 int roll = random.nextInt(1, 7);
                 System.out.println("You rolled a " + roll);
+                showDice(roll);
                 total += roll;
             }
-            System.out.println("You roll the dice" +total);
-        }else {
+            System.out.println("You rolled the dice and the total is: " + total);
+        } else {
             System.out.println("Invalid input");
         }
         scanner.close();
     }
+
     static void showDice(int roll) {
         String dice1 = """
                  _______
