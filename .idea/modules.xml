@@ -9,8 +9,10 @@
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/5. Sorting and Searching java Copy code/5. Sorting and Searching java Copy code.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/5. Sorting and Searching java Copy code/5. Sorting and Searching java Copy code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/6. Graphs java Copy code/6. Graphs java Copy code.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/6. Graphs java Copy code/6. Graphs java Copy code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/7. Dynamic Programming java Copy code/7. Dynamic Programming java Copy code.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/7. Dynamic Programming java Copy code/7. Dynamic Programming java Copy code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Coding Challenge.iml" filepath="$PROJECT_DIR$/.idea/Coding Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dice/Dice.iml" filepath="$PROJECT_DIR$/Dice/Dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList-ex1/LinkedList-ex1.iml" filepath="$PROJECT_DIR$/LinkedList-ex1/LinkedList-ex1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/Practice DS and Algorithms.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/Practice DS and Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex1/ex1.iml" filepath="$PROJECT_DIR$/ex1/ex1.iml" />
@@ -40,6 +42,7 @@
       <module fileurl="file://$PROJECT_DIR$/ex7/ex7.iml" filepath="$PROJECT_DIR$/ex7/ex7.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex8/ex8.iml" filepath="$PROJECT_DIR$/ex8/ex8.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex9/ex9.iml" filepath="$PROJECT_DIR$/ex9/ex9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/varargs/varargs.iml" filepath="$PROJECT_DIR$/varargs/varargs.iml" />
     </modules>
   </component>
 </project>
