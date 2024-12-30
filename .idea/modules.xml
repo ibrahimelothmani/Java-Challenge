@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Coding Challenge.iml" filepath="$PROJECT_DIR$/.idea/Coding Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dice/Dice.iml" filepath="$PROJECT_DIR$/Dice/Dice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fetch API/Fetch API.iml" filepath="$PROJECT_DIR$/Fetch API/Fetch API.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList-ex1/LinkedList-ex1.iml" filepath="$PROJECT_DIR$/LinkedList-ex1/LinkedList-ex1.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/Practice DS and Algorithms.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/Practice DS and Algorithms.iml" />
@@ -37,6 +38,8 @@
       <module fileurl="file://$PROJECT_DIR$/ex25/ex25.iml" filepath="$PROJECT_DIR$/ex25/ex25.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex26/ex26.iml" filepath="$PROJECT_DIR$/ex26/ex26.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex27/ex27.iml" filepath="$PROJECT_DIR$/ex27/ex27.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex28/ex28.iml" filepath="$PROJECT_DIR$/ex28/ex28.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex29/ex29.iml" filepath="$PROJECT_DIR$/ex29/ex29.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex3/ex3.iml" filepath="$PROJECT_DIR$/ex3/ex3.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex4/ex4.iml" filepath="$PROJECT_DIR$/ex4/ex4.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex5/ex5.iml" filepath="$PROJECT_DIR$/ex5/ex5.iml" />
