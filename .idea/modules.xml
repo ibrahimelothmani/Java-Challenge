@@ -4,17 +4,22 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/1. Array and String Manipulation/1. Array and String Manipulation.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/1. Array and String Manipulation/1. Array and String Manipulation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/2. Linked Lists/2. Linked Lists.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/2. Linked Lists/2. Linked Lists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2D_Array/2D_Array.iml" filepath="$PROJECT_DIR$/2D_Array/2D_Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/3. Stack and Queue/3. Stack and Queue.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/3. Stack and Queue/3. Stack and Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/4. Binary Trees and Binary Search Trees/4. Binary Trees and Binary Search Trees.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/4. Binary Trees and Binary Search Trees/4. Binary Trees and Binary Search Trees.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/5. Sorting and Searching java Copy code/5. Sorting and Searching java Copy code.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/5. Sorting and Searching java Copy code/5. Sorting and Searching java Copy code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/6. Graphs java Copy code/6. Graphs java Copy code.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/6. Graphs java Copy code/6. Graphs java Copy code.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/7. Dynamic Programming java Copy code/7. Dynamic Programming java Copy code.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/7. Dynamic Programming java Copy code/7. Dynamic Programming java Copy code.iml" />
       <module fileurl="file://$PROJECT_DIR$/ArrayList/ArrayList.iml" filepath="$PROJECT_DIR$/ArrayList/ArrayList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BST/BST.iml" filepath="$PROJECT_DIR$/BST/BST.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Coding Challenge.iml" filepath="$PROJECT_DIR$/.idea/Coding Challenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/Dice/Dice.iml" filepath="$PROJECT_DIR$/Dice/Dice.iml" />
       <module fileurl="file://$PROJECT_DIR$/Fetch API/Fetch API.iml" filepath="$PROJECT_DIR$/Fetch API/Fetch API.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HashSet/HashSet.iml" filepath="$PROJECT_DIR$/HashSet/HashSet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedList/LinkedList.iml" filepath="$PROJECT_DIR$/LinkedList/LinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/LinkedList-ex1/LinkedList-ex1.iml" filepath="$PROJECT_DIR$/LinkedList-ex1/LinkedList-ex1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Practice DS and Algorithms/Practice DS and Algorithms.iml" filepath="$PROJECT_DIR$/Practice DS and Algorithms/Practice DS and Algorithms.iml" />
       <module fileurl="file://$PROJECT_DIR$/Stream/Stream.iml" filepath="$PROJECT_DIR$/Stream/Stream.iml" />
       <module fileurl="file://$PROJECT_DIR$/TimerTasks/TimerTasks.iml" filepath="$PROJECT_DIR$/TimerTasks/TimerTasks.iml" />
@@ -47,6 +52,8 @@
       <module fileurl="file://$PROJECT_DIR$/ex7/ex7.iml" filepath="$PROJECT_DIR$/ex7/ex7.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex8/ex8.iml" filepath="$PROJECT_DIR$/ex8/ex8.iml" />
       <module fileurl="file://$PROJECT_DIR$/ex9/ex9.iml" filepath="$PROJECT_DIR$/ex9/ex9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem1/problem1.iml" filepath="$PROJECT_DIR$/problem1/problem1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/problem2/problem2.iml" filepath="$PROJECT_DIR$/problem2/problem2.iml" />
       <module fileurl="file://$PROJECT_DIR$/varargs/varargs.iml" filepath="$PROJECT_DIR$/varargs/varargs.iml" />
     </modules>
   </component>

@@ -11,7 +11,8 @@ public class Main {
         int number1 = scanner.nextInt();
         System.out.print("Enter the elements of the array: ");
         for (int i = 0; i < number1; i++) {
-            numbers.add(scanner.nextInt());
+            int theAdd = scanner.nextInt();
+            numbers.add(theAdd);
             count++;
             System.out.println("the array is: " + numbers + " and the count is: " + count + " and the length is: " + length);
         }
